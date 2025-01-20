@@ -74,9 +74,6 @@ Create a new file testfile2.txt:
 
 ---------------------
 
-mathematica
-Copy
-Edit
 Apple
 Mango
 Orange
