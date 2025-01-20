@@ -3,7 +3,7 @@
 Tasks
 Create a file testfile.txt with the following content:
 
------------------------------------------------------------------
+#
 
 Apple
 Banana
@@ -12,7 +12,7 @@ Apple
 Grape
 Cherry
 
----------------------
+#
 
 Use cat to:
 
@@ -72,7 +72,7 @@ Count the number of occurrences of each fruit.
 Tasks
 Create a new file testfile2.txt:
 
----------------------
+#
 
 Apple
 Mango
@@ -80,7 +80,7 @@ Orange
 Pear
 Grape
 
----------------------
+#
 
 Use diff to:
 Compare testfile.txt and testfile2.txt to find differences.
