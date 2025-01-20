@@ -5,9 +5,6 @@ Create a file testfile.txt with the following content:
 
 -----------------------------------------------------------------
 
-mathematica
-Copy
-Edit
 Apple
 Banana
 Orange
