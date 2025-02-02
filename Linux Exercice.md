@@ -3,11 +3,8 @@
 Tasks
 Create a file testfile.txt with the following content:
 
------------------------------------------------------------------
+#
 
-mathematica
-Copy
-Edit
 Apple
 Banana
 Orange
@@ -15,7 +12,7 @@ Apple
 Grape
 Cherry
 
----------------------
+#
 
 Use cat to:
 
@@ -75,18 +72,15 @@ Count the number of occurrences of each fruit.
 Tasks
 Create a new file testfile2.txt:
 
----------------------
+#
 
-mathematica
-Copy
-Edit
 Apple
 Mango
 Orange
 Pear
 Grape
 
----------------------
+#
 
 Use diff to:
 Compare testfile.txt and testfile2.txt to find differences.
