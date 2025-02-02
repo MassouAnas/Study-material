@@ -1,0 +1,14 @@
+This is a short line.
+This line is a bit longer than the previous one.
+This is the longest line in the file because it has the most characters.
+Short line.
+Another line with some text.
+The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This line is intentionally very long to test the awk script and see if it can correctly identify the longest line in the file.
+Short line again.
+Another medium-length line with some additional words.
